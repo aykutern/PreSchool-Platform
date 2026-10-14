@@ -128,10 +128,10 @@ MVP tek okulda pilotla doğrulanır; sonraki fazlar tüm okullara yayılmış bi
 
 | Faz | Modüller | Çıktı | Kapı kriteri |
 | --- | --- | --- | --- |
-| Faz 0 Hazırlık | – | 2 okulda kullanıcı araştırması, tasarım sistemi, KVKK metinleri (hukuk görüşü), mağaza hesapları, mimari karar kaydı | Kapsam ve mimari onayı, KVKK metinleri hazır |
-| MVP (Faz 1) | 01 Organizasyon, 02 Kullanıcılar, 03 Öğrenci, 04 Devamlılık, 05 Mesajlaşma, 06 Duyurular, 07 Gelişim (temel), 08 Mezuniyet, 09 Bildirimler ve temel raporlar, 10 Web paneli (çekirdek) | Mağazalarda yayınlanmış uygulama, bir okulda pilot | Pilot okulda veli hesap aktivasyonu en az %85 (ilk 30 gün), yoklama tamamlama en az %95, açık kritik hata yok |
-| Faz 2 | 07 Gelişim (tam: portfolyo, onay, görüşme), 06 Takvim, etkinlik, izin formu, randevu; 11 Sağlık ve ilaç; gelişmiş raporlar; çevrimdışı sağlamlaştırma | Tüm okullarda yaygın kullanım | Tüm okullar canlı, dönem raporu kapsaması %100 |
-| Faz 3 | 12 Günlük rapor ve medya galerisi, 13 Yemek menüsü ve servis, 14 aday modüller (aidat, ön kayıt) | Günlük akış ve ek hizmetler | Aidat için ödeme sağlayıcı ve muhasebe kararı |
+| Faz 0 Hazırlık | – | 2 okulda kullanıcı araştırması, tasarım sistemi, KVKK metinleri (hukuk görüşü), mağaza hesapları, mimari karar kaydı | Kapsam ve mimari onayı (proje sahibi); KVKK metinleri hazır; açık soruların en az %80'i kararlaştırılmış |
+| MVP (Faz 1) | 01 Organizasyon, 02 Kullanıcılar, 03 Öğrenci, 04 Devamlılık, 05 Mesajlaşma, 06 Duyurular, 07 Gelişim (temel), 08 Mezuniyet, 09 Bildirimler ve temel raporlar, 10 Web paneli (çekirdek) | Mağazalarda yayınlanmış uygulama, bir okulda pilot | Pilot okulda veli hesap aktivasyonu en az %85 (ilk 30 gün); yoklama tamamlama en az %95; açık kritik hata yok; KVKK uyum kontrolü geçti |
+| Faz 2 | 07 Gelişim (tam: portfolyo, onay, görüşme), 06 Takvim, etkinlik, izin formu, randevu; 11 Sağlık ve ilaç; gelişmiş raporlar; çevrimdışı sağlamlaştırma | Tüm okullarda yaygın kullanım | Tüm okullarda aktivasyon en az %85; dönem raporu kapsaması %100; sağlık verisi rıza oranı ölçüldü |
+| Faz 3 | 12 Günlük rapor ve medya galerisi, 13 Yemek menüsü ve servis, 14 aday modüller (aidat, ön kayıt) | Günlük akış ve ek hizmetler | Medya depolama maliyeti bütçede; aday modüllerin kabulü değişiklik kurulunda (aidat için ödeme sağlayıcı ve muhasebe kararı Faz 3'e giriş koşuludur) |
 
 ## Varsayımlar ve alınan kararlar
 

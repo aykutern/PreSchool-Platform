@@ -84,7 +84,7 @@ Modül her okul gününde her aktif çocuğun okulda olup olmadığını, ne zam
 **Çevrimdışı**
 
 16. Yoklama ekranı sınıf listesini önbellekler; bağlantı yokken girilen yoklama cihazda saklanır, bağlantı gelince gönderilir. Kesinleşme saati gönderim saati değil, giriş saatidir.
-17. Aynı sınıf için iki cihazdan çakışan girişte son gönderilen kazanır; önceki giriş değişiklik geçmişinde kalır ve iki öğretmene de bildirilir.
+17. Aynı sınıf için iki cihazdan çakışan girişte sunucu saatine göre düzeltilmiş giriş zamanı en yeni olan kazanır (varış sırası değil); önceki giriş değişiklik geçmişinde kalır ve iki öğretmene de bildirilir.
 
 ## Süreç akışı
 
